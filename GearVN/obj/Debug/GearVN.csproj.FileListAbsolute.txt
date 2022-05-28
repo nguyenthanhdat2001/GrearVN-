@@ -1,0 +1,162 @@
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\GearVN.exe.config
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\GearVN.exe
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\GearVN.pdb
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.Properties.Resources.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.GenerateResource.cache
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.CoreCompileInputs.cache
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.exe
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.pdb
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.KhachHang.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.Nhanvien.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.Hang.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.Nhacungcap.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.PhieuNhap.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.PhieuXuat.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.DangNhap.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\EnvDTE.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\stdole.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.MSXML.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.TrangChu.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.ExportPN.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\RdlCompile.cache
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\RdlCompile.compiled
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.ExportPX.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.AssemblyReference.cache
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.CopyComplete
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.ThongKePN.resources
+C:\Disk D\HOC TAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.ThongKePX.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\GearVN.exe.config
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\GearVN.exe
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\GearVN.pdb
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\EnvDTE.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\Microsoft.MSXML.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.AssemblyReference.cache
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.SuggestedBindingRedirects.cache
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.DangNhap.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.ExportPN.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.ExportPX.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.Hang.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.KhachHang.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.Nhacungcap.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.Nhanvien.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.PhieuNhap.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.PhieuXuat.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.Properties.Resources.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.ThongKePN.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.ThongKePX.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.TrangChu.resources
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.GenerateResource.cache
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.CoreCompileInputs.cache
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.csproj.CopyComplete
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.exe
+C:\HOCTAP\CNPM\GearVN\GearVN\obj\Debug\GearVN.pdb
